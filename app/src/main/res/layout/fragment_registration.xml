@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:layout_gravity="center"
-    tools:context=".RegistrationActivity">
+    tools:context="fragments.RegistrationFragment">
 
     <GridLayout
         android:layout_width="match_parent"
@@ -65,9 +65,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@color/design_default_color_primary_dark"
-        android:layout_marginTop="20dp"
-        android:layout_margin="40dp"
+        android:layout_marginTop="22dp"
+        android:layout_margin="30dp"
         android:text="Register"
         />
+
 
 </LinearLayout>
